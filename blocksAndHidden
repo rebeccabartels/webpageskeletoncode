@@ -1,0 +1,76 @@
+
+    {block:Hidden}
+    <meta name="color:Menu bar background" content="#fff"/>
+    <meta name="color:Menu bar text color" content="#222"/>
+    <meta name="if:Transparent menu bar" content="0"/>
+    <meta name="if:Bold title" content="0"/>
+    <meta name="image:Background image" content=""/>
+    <meta name="select:Body font" content="Cabin" title="Cabin">
+    <meta name="select:Body font" content="Source Sans Pro" title="Source Sans Pro">
+    <meta name="select:Body font" content="Droid Serif" title="Droid Serif">
+    <meta name="select:Body font" content="Lato" title="Lato">
+    <meta name="select:Body font" content="Vollkorn" title="Volkorn">
+    <meta name="select:Body font" content="Merriweather" title="Merriweather">
+    <meta name="select:Body font" content="PT Sans" title="PT Sans">
+    <meta name="select:Body font" content="Roboto Slab" title="Roboto Slab">
+    <meta name="select:Body font" content="Raleway" title="Raleway">
+    <meta name="select:Body font" content="Varela" title="Varela">
+    <meta name="select:Body font" content="Varela Round" title="Varela Round">
+    <meta name="select:Body font" content="Open Sans" title="Open Sans">
+    <meta name="select:Body font" content="Arial" title="Arial">
+    <meta name="select:Body font" content="Georgia" title="Georgia">
+    <meta name="select:Header font" content="Open Sans" title="Open Sans">
+    <meta name="select:Header font" content="Source Sans Pro" title="Source Sans Pro">
+    <meta name="select:Header font" content="Cabin" title="Cabin">
+    <meta name="select:Header font" content="Droid Serif" title="Droid Serif">
+    <meta name="select:Header font" content="Lato" title="Lato">
+    <meta name="select:Header font" content="Vollkorn" title="Volkorn">
+    <meta name="select:Header font" content="Merriweather" title="Merriweather">
+    <meta name="select:Header font" content="PT Sans" title="PT Sans">
+    <meta name="select:Header font" content="Roboto Slab" title="Roboto Slab">
+    <meta name="select:Header font" content="Raleway" title="Raleway">
+    <meta name="select:Header font" content="Varela" title="Varela">
+    <meta name="select:Header font" content="Varela Round" title="Varela Round">
+    <meta name="select:Header font" content="Arial" title="Arial">
+    <meta name="select:Header font" content="Georgia" title="Georgia">
+    <meta name="select:Pattern style" content="" title="None">
+    <meta name="select:Pattern style" content="http://static.tumblr.com/gmlcyjd/wAbmwf0gp/squairy.png" title="Squairy">
+    <meta name="select:Pattern style" content="http://static.tumblr.com/gmlcyjd/exAmwf0he/p5.png" title="P5">
+    <meta name="select:Pattern style" content="http://static.tumblr.com/gmlcyjd/xplmwf0ia/worn_dots.png" title="Worn Dots">
+    <meta name="select:Pattern style" content="http://static.tumblr.com/gmlcyjd/rdPmwf0j3/first_aid_kit.png" title="First Aid Kit">
+    <meta name="select:Pattern style" content="http://static.tumblr.com/gmlcyjd/AF2mwf0jt/debut_dark.png" title="Debut Dark">
+    <meta name="select:Pattern style" content="http://static.tumblr.com/gmlcyjd/7vTmwf0kl/dark_fish_skin.png" title="Dark Fish Skin">
+    <meta name="select:Pattern style" content="http://static.tumblr.com/gmlcyjd/n0Smwf0lh/dark_geometric.png" title="Dark Geometric">
+    <meta name="select:Pattern style" content="http://static.tumblr.com/gmlcyjd/3Nbmwf0m8/classy_fabric.png" title="Classy Fabric">
+    <meta name="select:Pattern style" content="http://static.tumblr.com/gmlcyjd/M3rmwf0mw/gplaypattern.png" title="Gplay">
+    <meta name="select:Pattern style" content="http://static.tumblr.com/gmlcyjd/GPWmwf0ni/arches.png" title="Arches">
+    <meta name="select:Pattern style" content="http://static.tumblr.com/gmlcyjd/LdMmwf0o5/plaid.png" title="My Little Plaid">
+    <meta name="select:Pattern style" content="http://static.tumblr.com/gmlcyjd/chcmwf0p3/subtle_zebra_3d.png" title="Subtle Zebra">
+    <meta name="select:Layout type" content="three-col" title="3 Columns">
+    <meta name="select:Layout type" content="two-col" title="2 Columns">
+    <meta name="select:Layout type" content="one-col" title="1 Column">   
+    <meta name="text:Menu footer text" content=""/>
+    <meta name="text:Website link" content=""/>
+    <meta name="text:Shop link" content=""/>
+    <meta name="text:Facebook link" content=""/>
+    <meta name="text:Twitter link" content=""/>
+    <meta name="text:Google Plus link" content=""/>
+    <meta name="text:Youtube link" content=""/>
+    <meta name="text:Vimeo link" content=""/>
+    <meta name="text:Pinterest link" content=""/>
+    <meta name="text:Dribbble link" content=""/>
+    <meta name="text:Instagram link" content=""/>
+    <meta name="text:SoundCloud link" content=""/>
+    <meta name="text:Spotify link" content=""/>
+    <meta name="text:LinkedIn link" content=""/>
+    <meta name="text:Flickr link" content=""/>
+    <meta name="text:Medium link" content=""/>
+    <meta name="text:Vine link" content=""/>
+    <meta name="text:VK link" content=""/>
+    <meta name="text:Picasa link" content=""/>
+    <meta name="text:GitHub link" content=""/>
+    <meta name="text:LastFm link" content=""/>
+    <meta name="text:Blogger link" content=""/>
+    <meta name="text:Google Analytics ID" content=""/>
+    <meta name="text:Extra Scripts" content=""/>
+    {/block:Hidden}
